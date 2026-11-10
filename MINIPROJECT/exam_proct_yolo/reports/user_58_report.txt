@@ -1,0 +1,8 @@
+[12:28:31] Blink: No, Mouth: Closed, Head Pose: Right, Cheating: Yes (tv)
+[12:28:36] Blink: Yes, Mouth: Open, Head Pose: Right, Cheating: No
+[12:28:41] Blink: No, Mouth: Closed, Head Pose: Right, Cheating: No
+[12:28:46] Blink: Yes, Mouth: Closed, Head Pose: Right, Cheating: Yes (tv)
+[12:28:51] Blink: No, Mouth: Open, Head Pose: Right, Cheating: No
+[12:28:56] Blink: Yes, Mouth: Closed, Head Pose: Right, Cheating: No
+[12:29:01] Blink: No, Mouth: Closed, Head Pose: Right, Cheating: Yes (tv)
+[12:29:10] Blink: Yes, Mouth: Closed, Head Pose: Left, Cheating: No
